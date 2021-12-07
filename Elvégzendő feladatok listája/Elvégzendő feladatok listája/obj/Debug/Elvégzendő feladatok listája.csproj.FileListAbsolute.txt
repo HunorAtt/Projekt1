@@ -1,0 +1,14 @@
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\bin\Debug\Elvégzendő feladatok listája.exe
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\bin\Debug\Elvégzendő feladatok listája.pdb
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája.csproj.AssemblyReference.cache
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\MainWindow.g.cs
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\App.g.cs
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája_MarkupCompile.cache
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája_MarkupCompile.lref
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\MainWindow.baml
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája.g.resources
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő_feladatok_listája.Properties.Resources.resources
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája.csproj.GenerateResource.cache
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája.csproj.CoreCompileInputs.cache
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája.exe
+C:\11.B\Szegedi Hunor\Elvégzendő feladatok listája\Elvégzendő feladatok listája\obj\Debug\Elvégzendő feladatok listája.pdb
